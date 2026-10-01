@@ -18,3 +18,23 @@ alfombrilla - https://dle.rae.es/alfombrilla?m=form
 escritorio - https://dle.rae.es/escritorio?m=form
 micrófono - https://dle.rae.es/micr%C3%B3fono?m=form
 figura - https://dle.rae.es/figura?m=form
+
+Algoritmo: https://dle.rae.es/algoritmo
+
+Bucle: https://dle.rae.es/bucle
+
+Código: https://dle.rae.es/código
+
+Programa: https://dle.rae.es/programa
+
+Variable: https://dle.rae.es/variable
+
+Función: https://dle.rae.es/función
+
+Matriz: https://dle.rae.es/matriz
+
+Cadena: https://dle.rae.es/cadena
+
+Objeto: https://dle.rae.es/objeto
+
+Compilador: https://dle.rae.es/compilador
